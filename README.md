@@ -1,6 +1,8 @@
 # PubCompletion
 PubCompletion is a PowerShell module that adds IntelliSense support for Dart package manager pub.
 
+![Screenshot](/Screenshots/pub.png?raw=true)
+
 ## Notes
 I didn't like that I cannot tab through pub options and see documentation, so I read an article about PowerShell and implemented it. Can be improved by expert PowerShell people. :)
 
